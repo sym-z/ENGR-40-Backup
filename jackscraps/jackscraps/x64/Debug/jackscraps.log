@@ -1,0 +1,3 @@
+﻿  jackscraps.cpp
+C:\cpp prog\jackscraps\jackscraps\jackscraps.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  jackscraps.vcxproj -> C:\cpp prog\jackscraps\x64\Debug\jackscraps.exe
